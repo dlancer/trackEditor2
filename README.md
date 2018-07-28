@@ -2,7 +2,7 @@
 Create 8-bit tracker music, writen specific for the ATMlib a memory optimized song player for Arduino dev boards.
 
 ## Demo
-[PatternEditor](http://teamarg.github.io/trackerEditor/)
+[PatternEditor](https://teamarg.github.io/trackEditor2/)
 
 ## Development
 
